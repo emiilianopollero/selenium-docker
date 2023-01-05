@@ -1,4 +1,4 @@
-<suite name="search-module">
+<suite name="search-module" parallel="tests">
     <test name="search-test-java">
         <parameter name="keyword" value="java"/>
         <classes>
